@@ -1,9 +1,11 @@
 # Gym-Website
-Name : FitFinityGym
-This is a Gym project that aims to replicate some of the basic functionalities of the Twitter platform. It provides a platform for users to post tweets, follow other users, and engage in conversations.
+#Name : FitFinityGym
+
+<h3>Introduction</h3>
+This project aims to create a website for a gym, providing information about the gym's services, facilities, and membership options. The website is designed to attract potential customers and provide them with relevant information to encourage them to join the gym.
 
 
-# Initialisation
+# Features
 We are going to do this project in React.
 <h1>Features of Twitter</h1>
 <h3><li>Add Feed: Users can create and post new feeds, similar to tweeting on Twitter.</li></h3>
@@ -77,12 +79,12 @@ To install and run the application locally, follow these steps:
 <li>Run npm install to install all dependencies</li>
 <li>Run npm start to start the development server</li>
 </ul>
-  <h1>Developer</h1>
+  <h1>Contribution</h1>
 <ol>
 
 <li> vaishnavi Chatur <a href="https://github.com/VaishnaviChatur"> https://github.com/VaishnaviChatur</a></li>
 
- <h1>Deployment Link <a href="https://twitter-vaishnavichatur.netlify.app/">https://twitter-vaishnavichatur.netlify.app/</a> </h1>
+ <h1>Deployment Link <a href="https://fitfinty-gym-vaishnavichatur.netlify.app/">https://fitfinty-gym-vaishnavichatur.netlify.app/</a> </h1>
   <h1>Acknowledgment</h1>
   We would like to acknowledge the valuable contributions of the open-source community and the various libraries and frameworks that have made the Twitter-clone possible. Their dedication and commitment have been instrumental in developing this powerful project management tool.
 ">https://twitter-vaishnavichatur.netlify.app/</a> </h1>
