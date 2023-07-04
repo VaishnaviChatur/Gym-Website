@@ -11,12 +11,13 @@ This project aims to create a website for a gym, providing information about the
 <h3><li>Material UI: A popular UI component library for React, providing pre-designed and customizable components.</h3></li>
 
 <h1>Features of Gym website</h1>
-<h3><li>Home Page:</li><li> The home page provides a brief introduction to the gym, highlighting its unique features and offerings. It may include images or videos showcasing the gym's facilities and trainers..</li></h3>
-<h3><li>Services and Classes: This section provides detailed information about the various services and classes offered by the gym. It includes descriptions, schedules, and any prerequisites or requirements for each service or class.</li></h3>
-<h3><li>Membership Options: The membership page outlines the different membership packages available, along with their respective benefits and pricing. It may include details about any special offers or discounts for new members.</li></h3>
-<h3><li>Trainers and Staff: This section introduces the gym's trainers and staff members. It provides their profiles, qualifications, and areas of expertise. This helps potential customers get to know the trainers and choose the one who suits their needs.</li></h3>
-<h3><li>Contact and Location: This page includes contact information, such as phone numbers, email addresses, and social media handles. It also provides the gym's location on a map and may include directions or a link to a map service.</li></h3>
-<h3><li>Online Registration: An online registration system allows visitors to sign up for memberships or book classes directly through the website. This feature streamlines the customer acquisition process and provides convenience for potential members.</li></h3>
+<h3><li>Home Page:</li>
+ <p> The home page provides a brief introduction to the gym, highlighting its unique features and offerings. It may include images or videos showcasing the gym's facilities and trainers..</p></h3>
+<h3><li>Services and Classes:</li><p> This section provides detailed information about the various services and classes offered by the gym. It includes descriptions, schedules, and any prerequisites or requirements for each service or class.</p></h3>
+<h3><li>Membership Options:</li> <p>The membership page outlines the different membership packages available, along with their respective benefits and pricing. It may include details about any special offers or discounts for new members.</p></h3>
+<h3><li>Trainers and Staff:</li> <p> This section introduces the gym's trainers and staff members. It provides their profiles, qualifications, and areas of expertise. This helps potential customers get to know the trainers and choose the one who suits their needs.</p></h3>
+<h3><li>Contact and Location: </li> <p>This page includes contact information, such as phone numbers, email addresses, and social media handles. It also provides the gym's location on a map and may include directions or a link to a map service.</p></h3>
+<h3><li>Online Registration:</li> <p> An online registration system allows visitors to sign up for memberships or book classes directly through the website. This feature streamlines the customer acquisition process and provides convenience for potential members.</p></h3>
 
 
  <h1> Tech Stack </h1>
