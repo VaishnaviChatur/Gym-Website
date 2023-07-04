@@ -1,0 +1,12 @@
+.bg {
+    height: 50vh;
+}
+
+.highlight {
+    color: red;
+}
+
+.highlight:hover {
+    text-decoration: underline yellow;
+    color: yellow;
+}

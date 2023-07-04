@@ -1,0 +1,82 @@
+.loginMian {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-image: url(https://t3.ftcdn.net/jpg/01/14/40/14/360_F_114401420_yN5sJ20f0wk8xuCLn6qBGS9gjEwvSZNG.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 100vh;
+}
+
+.loginContainer {
+    border: none;
+    width: 50%;
+    background-color: rgb(21, 21, 24);
+    color: rgb(255, 255, 255);
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-top: 50px;
+    box-shadow: 2px 2px 8px 8px grey;
+    border-radius: 20px;
+}
+
+.loginContainer>input {
+    border-radius: 0.5rem;
+    height: 2rem;
+}
+
+.sideimg {
+    height: 100vh;
+    width: 50%;
+}
+
+.loginButton {
+    background-color: red;
+    color: aliceblue;
+    text-align: center;
+    border: none;
+    padding: 15px;
+    border-radius: 10px;
+}
+
+.loginButton[type="submit"]:hover {
+    background-color: rgb(186, 0, 0);
+}
+
+.spanlogin {
+    color: rgb(255, 0, 0);
+    text-decoration: none;
+}
+
+@media screen and (min-width:300px) and (max-width: 768px) {
+    .main {
+        margin: 0;
+        padding: 0;
+        display: block;
+        align-items: center;
+        justify-content: center;
+        color: white;
+    }
+    .loginContainer {
+        margin: 0;
+        padding: 0;
+        border: none;
+        border-radius: 5px;
+        width: 100%;
+        background-color: rgb(5, 5, 12);
+        color: rgb(255, 255, 255);
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    .sideimg {
+        display: none;
+    }
+}

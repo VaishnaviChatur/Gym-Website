@@ -1,0 +1,10 @@
+.titletrain {
+    color: red;
+    background-color: black;
+    font-size: 2rem;
+}
+
+.titletrain:hover {
+    color: blanchedalmond;
+    text-transform: lowercase;
+}

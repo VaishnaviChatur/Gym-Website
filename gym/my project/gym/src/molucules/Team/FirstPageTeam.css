@@ -1,0 +1,42 @@
+.img {
+    height: 250px;
+    width: auto;
+}
+
+.caed {
+    display: inline-flex;
+    /* justify-content: center; */
+    /* flex-wrap: wrap; */
+    margin: 0%;
+}
+
+.foot {
+    background-color: black;
+}
+
+.foottext {
+    color: red;
+}
+
+.cardmain {
+    background-color: black;
+    color: aliceblue;
+    box-shadow: 2px 2px 8px 4px grey;
+}
+
+.cardmain:hover {
+    transform: scale(1.02);
+}
+
+.buttoncss {
+    /* margin-left: 20px; */
+    display: flex;
+    justify-content: center;
+    /* text-align: center; */
+    /* align-items: center; */
+    /* background-color: aqua; */
+}
+
+.ss {
+    margin: 50px;
+}

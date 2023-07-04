@@ -1,0 +1,44 @@
+.test {
+    background-color: red;
+    height: 65px;
+}
+
+.text {
+    color: white;
+}
+
+.text:hover {
+    color: blanchedalmond;
+    text-transform: lowercase;
+}
+
+.fullabout {
+    /* height: 100vh; */
+}
+
+.fullcard {
+    /* height: 100vh; */
+}
+
+.cardimg {
+    height: 70vh;
+    margin-top: 70px;
+    /* margin-left: 10px; */
+    /* width: 300px; */
+}
+
+.titledown {
+    margin-top: 140px;
+    color: red;
+    font-size: 4rem;
+}
+
+.para {
+    font-size: 1.5rem;
+}
+
+.video {
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
