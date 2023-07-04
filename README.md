@@ -5,16 +5,6 @@
 This project aims to create a website for a gym, providing information about the gym's services, facilities, and membership options. The website is designed to attract potential customers and provide them with relevant information to encourage them to join the gym.
 
 
-# Features
-We are going to do this project in React.
-<h1>Features of Twitter</h1>
-<h3><li>Add Feed: Users can create and post new feeds, similar to tweeting on Twitter.</li></h3>
-<h3><li>Like/Dislike: Users can like or dislike feeds to express their reaction.</li></h3>
-<h3><li>Trending Feed Section: The trending feed section displays the most popular and engaging feeds.</li></h3>
-<h3><li>User authentication and registration</li></h3>
-<h3><li>Following and unfollowing users</li></h3>
-
-
 # Dependencies
 <h1>The project utilizes the following dependencies:</h1>
 <h3><li>React: A JavaScript library for building user interfaces.</h3></li>
@@ -87,7 +77,5 @@ To install and run the application locally, follow these steps:
  <h1>Deployment Link <a href="https://fitfinty-gym-vaishnavichatur.netlify.app/">https://fitfinty-gym-vaishnavichatur.netlify.app/</a> </h1>
   <h1>Acknowledgment</h1>
   We would like to acknowledge the valuable contributions of the open-source community and the various libraries and frameworks that have made the Twitter-clone possible. Their dedication and commitment have been instrumental in developing this powerful project management tool.
-">https://twitter-vaishnavichatur.netlify.app/</a> </h1>
-  <h1>Acknowledgment</h1>
-  We would like to acknowledge the valuable contributions of the open-source community and the various libraries and frameworks that have made the Twitter-clone possible. Their dedication and commitment have been instrumental in developing this powerful project management tool.
-
+"https://fitfinty-gym-vaishnavichatur.netlify.app/</a> </h1>
+ 
