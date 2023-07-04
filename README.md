@@ -8,7 +8,6 @@ This project aims to create a website for a gym, providing information about the
 # Dependencies
 <h1>The project utilizes the following dependencies:</h1>
 <h3><li>React: A JavaScript library for building user interfaces.</h3></li>
-<h3><li>Redux-Toolkit: A state management library for managing application state in React.</h3></li>
 <h3><li>Material UI: A popular UI component library for React, providing pre-designed and customizable components.</h3></li>
 
 
@@ -20,7 +19,7 @@ This project aims to create a website for a gym, providing information about the
   <li>React Router</li>
   <li>HTML5</li>
   <li>CSS3</li>
-    <li>Bootstrap/li>
+    <li>Bootstrap</li>
   <h1>Installation</h1>
 To install and run the application locally, follow these steps:
 <ul>
