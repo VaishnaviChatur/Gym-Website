@@ -6,9 +6,17 @@ This project aims to create a website for a gym, providing information about the
 
 
 # Dependencies
-<h1>The project utilizes the following dependencies:</h1>
+<h3>The project utilizes the following dependencies:</h3>
 <h3><li>React: A JavaScript library for building user interfaces.</h3></li>
 <h3><li>Material UI: A popular UI component library for React, providing pre-designed and customizable components.</h3></li>
+
+<h1>Features of Gym website</h1>
+<h3><li>Home Page: The home page provides a brief introduction to the gym, highlighting its unique features and offerings. It may include images or videos showcasing the gym's facilities and trainers..</li></h3>
+<h3><li>Services and Classes: This section provides detailed information about the various services and classes offered by the gym. It includes descriptions, schedules, and any prerequisites or requirements for each service or class.</li></h3>
+<h3><li>Membership Options: The membership page outlines the different membership packages available, along with their respective benefits and pricing. It may include details about any special offers or discounts for new members.</li></h3>
+<h3><li>Trainers and Staff: This section introduces the gym's trainers and staff members. It provides their profiles, qualifications, and areas of expertise. This helps potential customers get to know the trainers and choose the one who suits their needs.</li></h3>
+<h3><li>Contact and Location: This page includes contact information, such as phone numbers, email addresses, and social media handles. It also provides the gym's location on a map and may include directions or a link to a map service.</li></h3>
+<h3><li>Online Registration: An online registration system allows visitors to sign up for memberships or book classes directly through the website. This feature streamlines the customer acquisition process and provides convenience for potential members.</li></h3>
 
 
  <h1> Tech Stack </h1>
@@ -27,7 +35,7 @@ To install and run the application locally, follow these steps:
 <li>Run npm install to install all dependencies</li>
 <li>Run npm start to start the development server</li>
 </ul>
-  <h1>Developer</h1>
+  <h1>Creator</h1>
 <ol>
 
 <li> vaishnavi Chatur <a href="https://github.com/VaishnaviChatur"> https://github.com/VaishnaviChatur</a></li>
@@ -35,16 +43,6 @@ To install and run the application locally, follow these steps:
  <h1>Deployment Link <a href="# Twitter-Clone
 This is a Twitter clone project that aims to replicate some of the basic functionalities of the Twitter platform. It provides a platform for users to post tweets, follow other users, and engage in conversations.
 
-
-# Initialisation
-We are going to do this project in React.
-<h1>Features of Gym website</h1>
-<h3><li>Home Page: The home page provides a brief introduction to the gym, highlighting its unique features and offerings. It may include images or videos showcasing the gym's facilities and trainers..</li></h3>
-<h3><li>Services and Classes: This section provides detailed information about the various services and classes offered by the gym. It includes descriptions, schedules, and any prerequisites or requirements for each service or class.</li></h3>
-<h3><li>Membership Options: The membership page outlines the different membership packages available, along with their respective benefits and pricing. It may include details about any special offers or discounts for new members.</li></h3>
-<h3><li>Trainers and Staff: This section introduces the gym's trainers and staff members. It provides their profiles, qualifications, and areas of expertise. This helps potential customers get to know the trainers and choose the one who suits their needs.</li></h3>
-<h3><li>Contact and Location: This page includes contact information, such as phone numbers, email addresses, and social media handles. It also provides the gym's location on a map and may include directions or a link to a map service.</li></h3>
-<h3><li>Online Registration: An online registration system allows visitors to sign up for memberships or book classes directly through the website. This feature streamlines the customer acquisition process and provides convenience for potential members.</li></h3>
 
  <h1> Tech Stack </h1>
  <ul>
