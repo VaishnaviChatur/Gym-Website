@@ -46,13 +46,6 @@ We are going to do this project in React.
 <h3><li>Contact and Location: This page includes contact information, such as phone numbers, email addresses, and social media handles. It also provides the gym's location on a map and may include directions or a link to a map service.</li></h3>
 <h3><li>Online Registration: An online registration system allows visitors to sign up for memberships or book classes directly through the website. This feature streamlines the customer acquisition process and provides convenience for potential members.</li></h3>
 
-# Dependencies
-<h1>The project utilizes the following dependencies:</h1>
-<h3><li>React: A JavaScript library for building user interfaces.</h3></li>
-<h3><li>Redux-Toolkit: A state management library for managing application state in React.</h3></li>
-<h3><li>Material UI: A popular UI component library for React, providing pre-designed and customizable components.</h3></li>
-
-
  <h1> Tech Stack </h1>
  <ul>
   <li>React JS</li>
